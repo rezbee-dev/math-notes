@@ -1,3 +1,3 @@
 # Math notes
 
-_Taken in OneNote with Wacom tablet
+_Taken in OneNote with Wacom tablet_
